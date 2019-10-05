@@ -1,4 +1,4 @@
-# notes-app
+# Notes App
 
 Notes App is created while on Andrew's Mead JS Bootcamp course.
 
